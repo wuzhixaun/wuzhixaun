@@ -112,4 +112,4 @@ Email: wuzhixuano@qq.com
 Github: @wuzhixaun
 ```
 
-[![☬](https://img.shields.io/badge/-@wuzhxaun-%23181717?style=flat-square&logo=github)](https://github.com/wuzhxaun)
+[![☬](https://img.shields.io/badge/-@wuzhixaun-%23181717?style=flat-square&logo=github)](https://github.com/wuzhixaun)
