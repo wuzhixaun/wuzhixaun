@@ -8,12 +8,17 @@
 <!-- knock code pictures 敲代码的图片 -->
 <div align="center" ><img src="https://cdn.jsdelivr.net/gh/wuzhixaun/wuzhixaun/assets/images/coding.gif" /></div><br>
 
-<!-- profile logo 个人资料徽标 -->
-<a href="https://www.cnblogs.com/wuzhixuan/"><img src="https://img.shields.io/badge/website-博客-blue" /></a>&emsp;
-<a href="https://blog.csdn.net/wuzhixuana/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
 
-<!-- visitor statistics logo 访客数统计徽标 -->
-<img src="https://visitor-badge.glitch.me/badge?page_id=wuzhixaun" alt="访客统计" /></div>
+<div align="center">
+  <!-- profile logo 个人资料徽标 -->
+  <a href="https://www.cnblogs.com/wuzhixuan/"><img src="https://img.shields.io/badge/website-博客-blue" /></a>&emsp;
+  <a href="https://blog.csdn.net/wuzhixuana/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
+  
+  <!-- visitor statistics logo 访客数统计徽标 -->
+  <img src="https://visitor-badge.glitch.me/badge?page_id=wuzhixaun" alt="访客统计" /></div>
+</div>
+
+
 
 #  🙋 Hello
 
