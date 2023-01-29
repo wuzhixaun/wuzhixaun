@@ -87,30 +87,29 @@
 </div><br>
 
   <!-- gif -->
-  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
-  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">
-  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vscode.webp">
-  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/react.webp">
-  <img height="95" width="95" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vue.webp">
-  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
-  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
-  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
+  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wuzhixaun/wuzhixaun/assets/images/html.webp">
+  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wuzhixaun/wuzhixaun/assets/images/cssgif.webp">
+  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wuzhixaun/wuzhixaun/assets/images/vscode.webp">
+  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wuzhixaun/wuzhixaun/assets/images/react.webp">
+  <img height="95" width="95" src="https://cdn.jsdelivr.net/gh/wuzhixaun/wuzhixaun/assets/images/vue.webp">
+  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wuzhixaun/wuzhixaun/assets/images/python.webp">
+  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wuzhixaun/wuzhixaun/assets/images/js.webp">
+  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wuzhixaun/wuzhixaun/assets/images/github.webp">
 
 </div>
 
 # 📃 〄 Analysis 〄
 
-<img height="160" width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=mochazi&count_private=true&show_icons=true&theme=radical" />
-<img height="160" width="47%" align ="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mochazi&theme=radical" />
+<img height="160" width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=wuzhxaun&count_private=true&show_icons=true&theme=radical" />
+<img height="160" width="47%" align ="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuzhxaun&theme=radical" />
 <br><br><br><br><br><br><br><br><br>
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mochazi&theme=monokai" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wuzhxaun&theme=monokai" />
 
 # 📞 ❅ Contact ❅
 
 ```text
-Email: mochazi888@gmail.com
-Twitter: @mochazi888
-Github: @mochazi
+Email: wuzhixuano@qq.com
+Github: @wuzhixaun
 ```
 
-[![☬](https://img.shields.io/badge/-@mochazi-%23181717?style=flat-square&logo=github)](https://github.com/mochazi)
+[![☬](https://img.shields.io/badge/-@wuzhxaun-%23181717?style=flat-square&logo=github)](https://github.com/wuzhxaun)
