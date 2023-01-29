@@ -100,10 +100,10 @@
 
 # 📃 〄 Analysis 〄
 
-<img height="160" width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=wuzhxaun&count_private=true&show_icons=true&theme=radical" />
-<img height="160" width="47%" align ="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuzhxaun&theme=radical" />
+<img height="160" width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=wuzhixaun&count_private=true&show_icons=true&theme=radical" />
+<img height="160" width="47%" align ="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuzhixaun&theme=radical" />
 <br><br><br><br><br><br><br><br><br>
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wuzhxaun&theme=monokai" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wuzhixaun&theme=monokai" />
 
 # 📞 ❅ Contact ❅
 
