@@ -24,8 +24,9 @@
 
 <p>✍️&nbsp;&nbsp;大家好，我是小吴同学! 欢迎大家的访问，我是一个小菜鸡，但是想要成为一个资深的程序猿！</p>
 
+
+# 💪 专业技能 ❀
 <div align="center" >
-💪 专业技能
 
 &emsp;&emsp;
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
